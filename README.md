@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="312" height="312" src="/.github/assets/logo.png">
+</p>
+
 # EtherealSX2
 This will house the source code for the future container, and eventual core, that will make up the EtherealSX2 emulator
 
